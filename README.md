@@ -5,5 +5,4 @@ bài giảng phần 5
  bài giảng phần 3 
 
  # sóng ánh sáng
-bài giảng phần 3 
-
+trắc nghiệm định lượng mẫu phần 1
